@@ -1,0 +1,1 @@
+Machine Learning, ou Aprendizagem de Máquina, é uma área da Inteligência Artificial que permite que computadores aprendam com dados, sem serem programados explicitamente para isso. Para esse projeto usei como base 20anos de dados do preço do dolar e assim fiz as projeções! 
